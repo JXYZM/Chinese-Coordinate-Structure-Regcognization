@@ -5,6 +5,7 @@ __pycache__/
 
 # local data files
 coordinate_data_150/
+.DS_Store
 
 # C extensions
 *.so
