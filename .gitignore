@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# local data files
+coordinate_data_150/
+
 # C extensions
 *.so
 
